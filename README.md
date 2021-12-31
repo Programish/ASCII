@@ -2,8 +2,6 @@
 
 An experiment in generating ASCII Art from images with an artificial neural network.
 
-_IN PROGRESS_
-
 ## Usage ##
 
 Currently only a hard-coded test image is converted:
